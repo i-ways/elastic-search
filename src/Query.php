@@ -19,6 +19,7 @@ use Cake\Datasource\QueryTrait;
 use Elastica\Query as ElasticaQuery;
 use Elastica\Query\AbstractQuery;
 use IteratorAggregate;
+use Elastica\Suggest as ElasticaSuggest;
 
 class Query implements IteratorAggregate, QueryInterface
 {

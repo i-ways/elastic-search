@@ -1,5 +1,5 @@
 {
-    "name": "cakephp/elastic-search",
+    "name": "i-ways/elastic-search",
     "description": "An Elastic Search datasource and data mapper for CakePHP 3.0",
     "type": "cakephp-plugin",
     "keywords": ["cakephp", "elasticsearch"],
